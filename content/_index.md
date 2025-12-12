@@ -1,6 +1,6 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "ZoneZzz - Endlich Erholung für die Familie"
+header_tagline_paragraph: "Sie lieben Ihr Baby, aber sind erschöpft, weil es sich nicht ablegen lässt? Wir haben die Lösung, die Sie verdienen"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
@@ -10,13 +10,16 @@ header_button_more:
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
-# The Future - Today!
+# Erholung für die ganze Familie!
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+Eltern von **High-Need** oder **High-Sensitivity Babies** wissen, wie herausfordernd der Alltag sein kann. Ihr Baby braucht Sie **immer** – und das ist wunderschön, aber auch unendlich anstrengend.
+
+Die **Elysium-Wiege** ist eine revolutionäre, elektrische Federwiege, die groß genug für einen Erwachsenen (mit Baby im Arm oder Tragesystem) ist. Sie bietet die sanfte, schwingende Bewegung, die Ihr Baby so sehr liebt – und die Ihnen beiden Ruhe schenkt.
+Erfahren Sie mehr über unseren [Prototypen](#prototype) oder nutzen Sie unserer [Kontakt formular](#contact-form) wenn Sie 
 
 ---
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+Wir stecken mitten in der **Prototypen- und Sicherheitsprüfungsphase** und schätzen Ihr Feedback in diesem frühen Stadium unseres Produkts sehr. Erzählen Sie uns von Ihren Herausforderungen und was die Elysium-Wiege für Sie tun müsste.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
@@ -24,32 +27,63 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 # Prototype
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+### Müdigkeit war gestern: Die elektrische Sitz-Hängematte für Eltern und Baby
+
+Wir machen unsere Versprechen wahr! Das haben wir bisher erreicht:
+
+| Funktion | Ihr Vorteil |
+| :--- | :--- |
+| **Sitz-Hängematte für Erwachsene** | Entspannen Sie **gemeinsam** mit Ihrem Baby. Endlich eine Pause, ohne Ihr Kind ablegen zu müssen. |
+| **Sanfte, elektrische Federung** | Beruhigende, rhythmische Schwingungen ahmen das Getragenwerden nach und helfen Ihrem Baby zur Ruhe zu kommen. |
+| **Doppelnutzen** | Kann dank intelligentem Design auch **nur als klassische elektrische Babywiege** verwendet werden. |
+
 
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
-Check out this sweet preview. Impressed much, are you?
+Wir sind beeindruckt von den ersten Tests – und Sie auch?
 
 ---
 
-# Imprint & Privacy Policy
+# Impressum & Datenschutz
 
-Let's keep it simple. This is our contact information:
+Magdalena Hutter
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
 
-E-mail: jane@doe.net
-Phone: 580-689-0577
+E-mail: Magdalena.a.hutter@gmail.com
+Phone: +49 15121609064
 
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+## # Datenschutz – Transparent und Minimalistisch
+
+**Ihre Daten sind uns wichtig.** Wir nehmen den Schutz Ihrer persönlichen Informationen sehr ernst und halten uns an den Grundsatz der Datensparsamkeit.
+
+### 🔒 Unser Minimal-Versprechen: Keine unnötigen Daten
+
+* **Keine Cookies:** Wir verwenden **keine Cookies** und setzen keinerlei Tracking-Dienste ein (kein Google Analytics, keine Social-Media-Pixel oder Ähnliches).
+* **Keine Protokollierung:** Wir speichern keine Informationen über Ihr Surfverhalten auf unserer Website.
+
+### ✉️ Umgang mit Ihren Kontaktinformationen
+
+Wenn Sie sich entscheiden, unser **Kontaktformular** zu nutzen oder sich für den **Newsletter** anzumelden, werden die von Ihnen eingegebenen Informationen (Name, E-Mail-Adresse, Nachricht) ausschließlich zum Zweck der Bearbeitung Ihrer Anfrage oder des Versands des Newsletters gespeichert.
+
+* **Hosting-Partner:** Diese Informationen werden auf den Servern von **Netlify** gespeichert, dem Dienst, den wir zum Hosten dieser Website nutzen.
+
+### 👤 Ihre Rechte
+
+Sie können uns jederzeit kontaktieren, um:
+1.  **Auskunft** darüber zu erhalten, welche Ihrer Daten wir gespeichert haben.
+2.  die **Löschung** Ihrer Daten zu verlangen.
+3.  Ihre Einwilligung zum Erhalt des Newsletters zu **widerrufen**.
+
+Bitte senden Sie uns dazu einfach eine E-Mail an: [Magdalena.a.hutter@gmail.com].
+
 
 ---
 
-# Stay in touch
+# Kontakt
 
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
+**Lassen Sie uns in Kontakt bleiben!**
+
+Melden Sie sich für unseren Newsletter an. Machen Sie sich keine Sorgen, wir werden Sie nicht mit langweiligen Details bombardieren. Erwarten Sie schöne und kompakte Updates etwa ein- bis zweimal alle 3 Monate, insbesondere zu **Sicherheitstests, Zertifizierungen** und dem **geplanten Verkaufsstart.**
+
 
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
