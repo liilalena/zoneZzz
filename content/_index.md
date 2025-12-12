@@ -38,7 +38,7 @@ Wir machen unsere Versprechen wahr! Das haben wir bisher erreicht:
 | **Doppelnutzen** | Kann dank intelligentem Design auch **nur als klassische elektrische Babywiege** verwendet werden. |
 
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+![Prototype Work](images/IMG_0305.jpeg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
 Wir sind beeindruckt von den ersten Tests – und Sie auch?
 
