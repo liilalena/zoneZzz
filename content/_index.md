@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "Erfahren Sie mehr"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+teaser_image: "images/IMG_0305.jpeg"
 ---
 
 # Erholung für die ganze Familie!
