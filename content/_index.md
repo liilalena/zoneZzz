@@ -10,7 +10,7 @@ header_button_more:
 teaser_image: "images/IMG_0305.jpeg"
 ---
 
-![Prototype Work](images/IMG_0364. png.)
+![Prototype Work](images/IMG_0364.png)
 
 # Erholung für die ganze Familie!
 
