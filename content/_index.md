@@ -10,6 +10,8 @@ header_button_more:
 teaser_image: "images/IMG_0305.jpeg"
 ---
 
+![Prototype Work](images/IMG_0364. png.)
+
 # Erholung für die ganze Familie!
 
 Jeder Elternteil kennt diese Momente: Ihr Baby braucht Ihre Nähe, Ihren Herzschlag, Ihre sanfte Bewegung. Besonders für Eltern von **High-Need-Babys** oder Kindern mit **hoher Sensibilität** kann die Suche nach Ruhe und Geborgenheit eine **tägliche Herausforderung** sein. Babys, die sich kaum ablegen lassen, bedeuten oft schlaflose Nächte und unzählige Stunden im Arm – wunderschön, aber auch kräftezehrend.
@@ -21,9 +23,9 @@ Erfahren Sie mehr über unseren [Prototypen](#prototype) oder nutzen Sie unserer
 # Der Prototyp: Unsere Vision wird Realität
 Wir sind stolz darauf, die Entwicklung von ZoneZzz voranzutreiben. Unser Prototyp befindet sich in intensiver Testphasen, um die Sicherheit, Funktionalität und den Komfort bis ins kleinste Detail zu perfektionieren. Jeder Testschritt bringt uns näher an ein Produkt, das Familien entlasten und bereichern wird.
 
-
-
 ### ZoneZzz schafft eine neue Dimension der Geborgenheit.
+
+![Prototype Work](images/IMG_0305.jpeg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
 Wir entwickeln eine einzigartige Federwiege, die speziell dafür konzipiert wurde, sowohl Babys als auch die betreuenden Eltern sicher und sanft in den Schlaf zu wiegen oder einfach nur Momente tiefer Entspannung zu schenken. Stellen Sie sich vor, Sie können Ihr Kind sanft in den Schlaf wiegen und gleichzeitig selbst zur Ruhe kommen – sicher, ergonomisch und absolut geborgen.
 ### Die Vorteile von ZoneZzz: 
@@ -34,9 +36,6 @@ Wir entwickeln eine einzigartige Federwiege, die speziell dafür konzipiert wurd
 * **Intelligente Steuerung**: Intuitive Bedienung per **Smartphone-App** (Bluetooth-Steuerung) ermöglicht eine präzise Anpassung von Modus (Baby/Eltern) und Schwingungsintensität.
 * **Deutsches Ingenieurwesen**: Von der ersten Idee bis zum Prototypen setzen wir auf deutsche Präzision und Qualität in Entwicklung und Materialwahl.
 
-![Prototype Work](images/IMG_0305.jpeg) <!-- https://www.pexels.com/search/product%20testing/ -->
-
-Wir sind beeindruckt von den ersten Tests – und Sie auch?
 
 --- 
 # Werden Sie Teil unserer Reise!
